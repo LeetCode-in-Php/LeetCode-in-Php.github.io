@@ -1,0 +1,51 @@
+[![](https://img.shields.io/github/stars/LeetCode-in-Ruby/LeetCode-in-Ruby?label=Stars&style=flat-square)](https://github.com/LeetCode-in-Ruby/LeetCode-in-Ruby)
+[![](https://img.shields.io/github/forks/LeetCode-in-Ruby/LeetCode-in-Ruby?label=Fork%20me%20on%20GitHub%20&style=flat-square)](https://github.com/LeetCode-in-Ruby/LeetCode-in-Ruby/fork)
+
+## 96\. Unique Binary Search Trees
+
+Medium
+
+Given an integer `n`, return _the number of structurally unique **BST'**s (binary search trees) which has exactly_ `n` _nodes of unique values from_ `1` _to_ `n`.
+
+**Example 1:**
+
+![](https://assets.leetcode.com/uploads/2021/01/18/uniquebstn3.jpg)
+
+**Input:** n = 3
+
+**Output:** 5 
+
+**Example 2:**
+
+**Input:** n = 1
+
+**Output:** 1 
+
+**Constraints:**
+
+*   `1 <= n <= 19`
+
+## Solution
+
+```php
+<?php
+
+namespace leetcode\g0001_0100\s0096_unique_binary_search_trees;
+
+
+class Solution {
+    /**
+     * @param Integer $n
+     * @return Integer
+     */
+    public function numTrees($n) {
+        $result = 1;
+        for ($i = 0; $i < $n; $i++) {
+            $result *= 2 * $n - $i;
+            $result /= $i + 1;
+        }
+        $result /= $n + 1;
+        return (int)$result;
+    }
+}
+```

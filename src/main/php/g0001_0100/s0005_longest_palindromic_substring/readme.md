@@ -1,0 +1,80 @@
+[![](https://img.shields.io/github/stars/LeetCode-in-Ruby/LeetCode-in-Ruby?label=Stars&style=flat-square)](https://github.com/LeetCode-in-Ruby/LeetCode-in-Ruby)
+[![](https://img.shields.io/github/forks/LeetCode-in-Ruby/LeetCode-in-Ruby?label=Fork%20me%20on%20GitHub%20&style=flat-square)](https://github.com/LeetCode-in-Ruby/LeetCode-in-Ruby/fork)
+
+## 5\. Longest Palindromic Substring
+
+Medium
+
+Given a string `s`, return _the longest palindromic substring_ in `s`.
+
+**Example 1:**
+
+**Input:** s = "babad"
+
+**Output:** "bab" **Note:** "aba" is also a valid answer. 
+
+**Example 2:**
+
+**Input:** s = "cbbd"
+
+**Output:** "bb" 
+
+**Example 3:**
+
+**Input:** s = "a"
+
+**Output:** "a" 
+
+**Example 4:**
+
+**Input:** s = "ac"
+
+**Output:** "a" 
+
+**Constraints:**
+
+*   `1 <= s.length <= 1000`
+*   `s` consist of only digits and English letters.
+
+## Solution
+
+```php
+<?php
+
+namespace leetcode\g0001_0100\s0005_longest_palindromic_substring;
+
+
+class Solution {
+    /**
+     * @param String $s
+     * @return String
+     */
+    public function longestPalindrome($s): string {
+        if (($length = strlen($s)) <= 1) {
+            return $s;
+        }
+        if (strrev($s) === $s) {
+            return $s;
+        }
+
+        $max_length = 1;
+        for ($i = 0; $i < $length; ++$i) {
+            for ($len = $max_length; $len <= $length; ++$len) {
+                $start = $i - ($len >> 1);
+                if ($start < 0 || $start + $len > $length) {
+                    break;
+                }
+                $substr = substr($s, $start, $len);
+                if ($substr === strrev($substr)) {
+                    $str = $substr;
+                    $max_length = $len;
+                } elseif ($max_length + 1 < $len) {
+                    break;
+                }
+            }
+        }
+
+        return $str;
+    }
+}
+```
