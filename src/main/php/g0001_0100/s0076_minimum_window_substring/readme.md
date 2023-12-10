@@ -49,7 +49,6 @@ A **substring** is a contiguous sequence of characters within the string.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0076_minimum_window_substring;
 
 
 class Solution {

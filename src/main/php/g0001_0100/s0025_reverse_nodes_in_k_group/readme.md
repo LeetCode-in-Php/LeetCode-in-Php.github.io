@@ -53,7 +53,6 @@ You may not alter the values in the list's nodes, only nodes themselves may be c
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0025_reverse_nodes_in_k_group;
 
 
 use leetcode\com_github_leetcode\ListNode;

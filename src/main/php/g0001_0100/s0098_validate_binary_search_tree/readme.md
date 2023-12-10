@@ -41,7 +41,6 @@ A **valid BST** is defined as follows:
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0098_validate_binary_search_tree;
 
 
 /**

@@ -63,7 +63,6 @@ The matching should cover the **entire** input string (not partial).
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0010_regular_expression_matching;
 
 
 class Solution {

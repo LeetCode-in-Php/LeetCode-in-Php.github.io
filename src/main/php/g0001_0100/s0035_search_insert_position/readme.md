@@ -51,7 +51,6 @@ You must write an algorithm with `O(log n)` runtime complexity.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0035_search_insert_position;
 
 
 class Solution {

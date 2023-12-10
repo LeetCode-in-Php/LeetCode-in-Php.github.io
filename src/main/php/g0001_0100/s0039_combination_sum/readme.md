@@ -59,7 +59,6 @@ It is **guaranteed** that the number of unique combinations that sum up to `targ
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0039_combination_sum;
 
 
 class Solution {

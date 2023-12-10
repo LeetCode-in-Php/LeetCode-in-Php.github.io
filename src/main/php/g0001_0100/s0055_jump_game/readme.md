@@ -35,7 +35,6 @@ Return `true` _if you can reach the last index, or_ `false` _otherwise_.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0055_jump_game;
 
 
 class Solution {

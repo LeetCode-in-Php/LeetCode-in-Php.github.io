@@ -34,7 +34,6 @@ Each time you can either climb `1` or `2` steps. In how many distinct ways can y
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0070_climbing_stairs;
 
 
 class Solution {

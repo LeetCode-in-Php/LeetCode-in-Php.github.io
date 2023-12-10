@@ -30,7 +30,6 @@ Given an integer `n`, return _the number of structurally unique **BST'**s (binar
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0096_unique_binary_search_trees;
 
 
 class Solution {

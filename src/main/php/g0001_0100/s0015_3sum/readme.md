@@ -37,7 +37,6 @@ Notice that the solution set must not contain duplicate triplets.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0015_3sum;
 
 
 class Solution {

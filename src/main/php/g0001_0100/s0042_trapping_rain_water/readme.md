@@ -34,7 +34,6 @@ Given `n` non-negative integers representing an elevation map where the width of
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0042_trapping_rain_water;
 
 
 class Solution {

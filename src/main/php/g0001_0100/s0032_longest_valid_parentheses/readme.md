@@ -39,7 +39,6 @@ Given a string containing just the characters `'('` and `')'`, find the length o
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0032_longest_valid_parentheses;
 
 
 class Solution {

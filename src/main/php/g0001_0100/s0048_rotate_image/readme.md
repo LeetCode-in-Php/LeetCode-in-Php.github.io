@@ -49,7 +49,6 @@ You have to rotate the image [**in-place**](https://en.wikipedia.org/wiki/In-pla
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0048_rotate_image;
 
 
 class Solution {

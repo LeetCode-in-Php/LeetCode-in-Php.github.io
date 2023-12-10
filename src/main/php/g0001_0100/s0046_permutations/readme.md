@@ -36,7 +36,6 @@ Given an array `nums` of distinct integers, return _all the possible permutation
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0046_permutations;
 
 
 class Solution {

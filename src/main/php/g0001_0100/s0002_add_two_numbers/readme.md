@@ -42,7 +42,6 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0002_add_two_numbers;
 
 
 use leetcode\com_github_leetcode\ListNode;

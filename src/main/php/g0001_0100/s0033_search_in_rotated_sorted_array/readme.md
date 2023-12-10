@@ -44,7 +44,6 @@ You must write an algorithm with `O(log n)` runtime complexity.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0033_search_in_rotated_sorted_array;
 
 
 class Solution {

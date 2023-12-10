@@ -57,7 +57,6 @@ The overall run time complexity should be `O(log (m+n))`.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0004_median_of_two_sorted_arrays;
 
 
 class Solution {

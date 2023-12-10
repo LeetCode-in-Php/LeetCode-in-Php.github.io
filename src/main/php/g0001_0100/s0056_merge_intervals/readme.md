@@ -34,7 +34,6 @@ Given an array of `intervals` where <code>intervals[i] = [start<sub>i</sub>, end
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0056_merge_intervals;
 
 
 class Solution {

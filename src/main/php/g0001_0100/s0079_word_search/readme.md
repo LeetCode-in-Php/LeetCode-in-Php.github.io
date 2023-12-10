@@ -48,7 +48,6 @@ The word can be constructed from letters of sequentially adjacent cells, where a
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0079_word_search;
 
 
 class Solution {

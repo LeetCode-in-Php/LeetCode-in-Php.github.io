@@ -47,7 +47,6 @@ Given a string `s`, find the length of the **longest substring** without repeati
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0003_longest_substring_without_repeating_characters;
 
 
 class Solution {

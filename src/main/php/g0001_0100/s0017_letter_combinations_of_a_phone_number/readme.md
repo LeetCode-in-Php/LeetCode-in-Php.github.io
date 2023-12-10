@@ -39,7 +39,6 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0017_letter_combinations_of_a_phone_number;
 
 
 class Solution {

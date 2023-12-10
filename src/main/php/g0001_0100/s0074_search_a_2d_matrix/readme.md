@@ -38,7 +38,6 @@ Write an efficient algorithm that searches for a value in an `m x n` matrix. Thi
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0074_search_a_2d_matrix;
 
 
 class Solution {

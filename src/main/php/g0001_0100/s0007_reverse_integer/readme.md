@@ -42,7 +42,6 @@ Given a signed 32-bit integer `x`, return `x` _with its digits reversed_. If rev
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0007_reverse_integer;
 
 
 class Solution {

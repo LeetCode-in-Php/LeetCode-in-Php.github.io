@@ -120,7 +120,6 @@ Since -91283472332 is less than the lower bound of the range [-2<sup>31</sup>, 2
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0008_string_to_integer_atoi;
 
 
 class Solution {

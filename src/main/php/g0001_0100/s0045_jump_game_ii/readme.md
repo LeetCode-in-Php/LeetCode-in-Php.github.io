@@ -37,7 +37,6 @@ You can assume that you can always reach the last index.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0045_jump_game_ii;
 
 
 class Solution {

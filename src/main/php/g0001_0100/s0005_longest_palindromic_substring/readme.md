@@ -41,7 +41,6 @@ Given a string `s`, return _the longest palindromic substring_ in `s`.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0005_longest_palindromic_substring;
 
 
 class Solution {

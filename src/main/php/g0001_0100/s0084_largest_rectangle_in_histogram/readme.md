@@ -35,7 +35,6 @@ Given an array of integers `heights` representing the histogram's bar height whe
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0084_largest_rectangle_in_histogram;
 
 
 class Solution {

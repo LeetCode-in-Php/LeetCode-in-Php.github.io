@@ -37,7 +37,6 @@ You must implement an algorithm that runs in `O(n)` time and uses constant extra
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0041_first_missing_positive;
 
 
 class Solution {

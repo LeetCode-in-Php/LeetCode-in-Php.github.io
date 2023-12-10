@@ -41,7 +41,6 @@ You must write an algorithm with `O(log n)` runtime complexity.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0034_find_first_and_last_position_of_element_in_sorted_array;
 
 
 class Solution {

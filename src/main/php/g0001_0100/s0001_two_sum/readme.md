@@ -45,7 +45,6 @@ You can return the answer in any order.
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0001_two_sum;
 
 
 class Solution {

@@ -32,7 +32,6 @@ The solution set **must not** contain duplicate subsets. Return the solution in 
 ```php
 <?php
 
-namespace leetcode\g0001_0100\s0078_subsets;
 
 
 class Solution {
