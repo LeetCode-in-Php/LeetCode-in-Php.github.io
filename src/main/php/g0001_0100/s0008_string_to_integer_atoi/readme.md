@@ -118,10 +118,6 @@ Since -91283472332 is less than the lower bound of the range [-2<sup>31</sup>, 2
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String $s

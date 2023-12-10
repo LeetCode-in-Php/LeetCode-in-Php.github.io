@@ -44,10 +44,6 @@ string convert(string s, int numRows);
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String $s

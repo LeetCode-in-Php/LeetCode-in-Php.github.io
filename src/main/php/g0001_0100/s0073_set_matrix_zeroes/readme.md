@@ -41,10 +41,6 @@ You must do it [in place](https://en.wikipedia.org/wiki/In-place_algorithm).
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[][] $matrix

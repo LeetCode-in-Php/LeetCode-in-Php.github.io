@@ -40,10 +40,6 @@ Given a signed 32-bit integer `x`, return `x` _with its digits reversed_. If rev
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer $x

@@ -30,10 +30,6 @@ The solution set **must not** contain duplicate subsets. Return the solution in 
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums

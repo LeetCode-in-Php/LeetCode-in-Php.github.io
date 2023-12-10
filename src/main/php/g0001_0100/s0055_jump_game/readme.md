@@ -33,10 +33,6 @@ Return `true` _if you can reach the last index, or_ `false` _otherwise_.
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums

@@ -35,10 +35,6 @@ You can assume that you can always reach the last index.
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums

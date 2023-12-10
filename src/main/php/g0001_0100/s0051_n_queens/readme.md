@@ -34,10 +34,6 @@ Each solution contains a distinct board configuration of the n-queens' placement
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer $n

@@ -47,10 +47,6 @@ A **substring** is a contiguous sequence of characters within the string.
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String $s

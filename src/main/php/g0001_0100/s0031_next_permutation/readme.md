@@ -43,10 +43,6 @@ The replacement must be **[in place](http://en.wikipedia.org/wiki/In-place_algor
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums

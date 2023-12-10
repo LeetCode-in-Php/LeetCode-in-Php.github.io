@@ -46,10 +46,6 @@ An integer is a **palindrome** when it reads the same backward as forward. For e
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer $x

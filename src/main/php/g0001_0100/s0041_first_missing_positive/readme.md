@@ -35,10 +35,6 @@ You must implement an algorithm that runs in `O(n)` time and uses constant extra
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums

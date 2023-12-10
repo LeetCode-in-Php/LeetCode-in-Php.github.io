@@ -28,10 +28,6 @@ Given an integer `n`, return _the number of structurally unique **BST'**s (binar
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer $n

@@ -46,10 +46,6 @@ The word can be constructed from letters of sequentially adjacent cells, where a
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String[][] $board

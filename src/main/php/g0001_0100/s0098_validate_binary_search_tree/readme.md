@@ -39,10 +39,6 @@ A **valid BST** is defined as follows:
 ## Solution
 
 ```php
-<?php
-
-
-
 /**
  * Definition for a binary tree node.
  * class TreeNode {

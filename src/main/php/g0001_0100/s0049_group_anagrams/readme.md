@@ -36,10 +36,6 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String[] $strs

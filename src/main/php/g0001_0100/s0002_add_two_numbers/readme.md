@@ -40,10 +40,6 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 ## Solution
 
 ```php
-<?php
-
-
-
 use leetcode\com_github_leetcode\ListNode;
 
 /**

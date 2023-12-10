@@ -39,10 +39,6 @@ Given a string `s`, return _the longest palindromic substring_ in `s`.
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String $s

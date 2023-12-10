@@ -35,10 +35,6 @@ Given a linked list, swap every two adjacent nodes and return its head. You must
 ## Solution
 
 ```php
-<?php
-
-
-
 use leetcode\com_github_leetcode\ListNode;
 
 /**

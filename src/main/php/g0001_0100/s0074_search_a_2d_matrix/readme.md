@@ -36,10 +36,6 @@ Write an efficient algorithm that searches for a value in an `m x n` matrix. Thi
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[][] $matrix

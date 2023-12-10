@@ -57,10 +57,6 @@ It is **guaranteed** that the number of unique combinations that sum up to `targ
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $candidates

@@ -35,10 +35,6 @@ Notice that the solution set must not contain duplicate triplets.
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums

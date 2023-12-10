@@ -46,10 +46,6 @@ You must solve this problem without using the library's sort function.
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums

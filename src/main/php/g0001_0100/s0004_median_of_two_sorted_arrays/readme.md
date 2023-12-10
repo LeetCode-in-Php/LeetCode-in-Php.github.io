@@ -55,10 +55,6 @@ The overall run time complexity should be `O(log (m+n))`.
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums1

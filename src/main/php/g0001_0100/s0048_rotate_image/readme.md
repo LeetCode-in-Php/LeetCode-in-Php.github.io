@@ -47,10 +47,6 @@ You have to rotate the image [**in-place**](https://en.wikipedia.org/wiki/In-pla
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[][] $matrix

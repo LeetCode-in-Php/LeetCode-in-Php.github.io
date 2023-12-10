@@ -33,10 +33,6 @@ Given an array of integers `heights` representing the histogram's bar height whe
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $heights

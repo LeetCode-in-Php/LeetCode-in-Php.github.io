@@ -34,10 +34,6 @@ Given an array `nums` of distinct integers, return _all the possible permutation
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums

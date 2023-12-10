@@ -53,10 +53,6 @@ Given the `root` of a binary tree, return _the inorder traversal of its nodes' v
 ## Solution
 
 ```php
-<?php
-
-
-
 /**
  * Definition for a binary tree node.
  * class TreeNode {

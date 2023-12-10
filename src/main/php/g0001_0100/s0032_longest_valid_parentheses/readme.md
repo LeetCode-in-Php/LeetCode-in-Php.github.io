@@ -37,10 +37,6 @@ Given a string containing just the characters `'('` and `')'`, find the length o
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String $s

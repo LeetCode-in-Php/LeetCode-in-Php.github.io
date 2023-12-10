@@ -32,10 +32,6 @@ Given `n` non-negative integers representing an elevation map where the width of
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $height

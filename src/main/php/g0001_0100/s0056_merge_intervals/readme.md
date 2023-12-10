@@ -32,10 +32,6 @@ Given an array of `intervals` where <code>intervals[i] = [start<sub>i</sub>, end
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[][] $intervals

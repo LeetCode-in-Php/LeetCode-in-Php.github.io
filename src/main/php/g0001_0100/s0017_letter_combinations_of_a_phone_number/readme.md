@@ -37,10 +37,6 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String $digits

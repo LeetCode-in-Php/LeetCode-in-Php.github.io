@@ -36,10 +36,6 @@ Merge two sorted linked lists and return it as a **sorted** list. The list shoul
 ## Solution
 
 ```php
-<?php
-
-
-
 use leetcode\com_github_leetcode\ListNode;
 
 /**

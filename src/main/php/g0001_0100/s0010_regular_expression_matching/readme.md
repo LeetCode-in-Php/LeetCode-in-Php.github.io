@@ -61,10 +61,6 @@ The matching should cover the **entire** input string (not partial).
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     private $cache;
 

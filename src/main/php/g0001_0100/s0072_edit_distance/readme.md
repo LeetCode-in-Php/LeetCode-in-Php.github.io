@@ -37,10 +37,6 @@ You have the following three operations permitted on a word:
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String $word1

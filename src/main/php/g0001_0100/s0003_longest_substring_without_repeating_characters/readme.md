@@ -45,10 +45,6 @@ Given a string `s`, find the length of the **longest substring** without repeati
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String $s

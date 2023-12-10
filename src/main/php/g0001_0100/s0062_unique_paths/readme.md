@@ -52,10 +52,6 @@ How many possible unique paths are there?
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer $m

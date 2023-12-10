@@ -43,10 +43,6 @@ You can return the answer in any order.
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param Integer[] $nums

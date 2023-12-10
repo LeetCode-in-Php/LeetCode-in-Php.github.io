@@ -41,10 +41,6 @@ _Merge all the linked-lists into one sorted linked-list and return it._
 ## Solution
 
 ```php
-<?php
-
-
-
 use leetcode\com_github_leetcode\ListNode;
 
 /**

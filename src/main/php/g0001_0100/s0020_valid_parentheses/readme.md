@@ -50,10 +50,6 @@ An input string is valid if:
 ## Solution
 
 ```php
-<?php
-
-
-
 class Solution {
     /**
      * @param String $s
