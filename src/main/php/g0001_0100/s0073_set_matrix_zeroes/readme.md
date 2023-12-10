@@ -41,11 +41,6 @@ You must do it [in place](https://en.wikipedia.org/wiki/In-place_algorithm).
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0073_set_matrix_zeroes;
-
-
 class Solution {
     /**
      * @param Integer[][] $matrix

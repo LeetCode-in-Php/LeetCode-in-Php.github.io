@@ -39,11 +39,6 @@ Given the `head` of a linked list, remove the `nth` node from the end of the lis
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0019_remove_nth_node_from_end_of_list;
-
-
 use leetcode\com_github_leetcode\ListNode;
 
 /*

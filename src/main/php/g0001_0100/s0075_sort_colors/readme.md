@@ -46,11 +46,6 @@ You must solve this problem without using the library's sort function.
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0075_sort_colors;
-
-
 class Solution {
     /**
      * @param Integer[] $nums

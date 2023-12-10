@@ -34,11 +34,6 @@ Each solution contains a distinct board configuration of the n-queens' placement
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0051_n_queens;
-
-
 class Solution {
     /**
      * @param Integer $n

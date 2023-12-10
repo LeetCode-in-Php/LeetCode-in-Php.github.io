@@ -43,11 +43,6 @@ The replacement must be **[in place](http://en.wikipedia.org/wiki/In-place_algor
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0031_next_permutation;
-
-
 class Solution {
     /**
      * @param Integer[] $nums

@@ -53,11 +53,6 @@ Given the `root` of a binary tree, return _the inorder traversal of its nodes' v
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0094_binary_tree_inorder_traversal;
-
-
 /**
  * Definition for a binary tree node.
  * class TreeNode {

@@ -26,11 +26,6 @@ Given `n` pairs of parentheses, write a function to _generate all combinations o
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0022_generate_parentheses;
-
-
 class Solution {
     /**
      * @param Integer $n

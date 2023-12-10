@@ -39,11 +39,6 @@ A **subarray** is a **contiguous** part of an array.
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0053_maximum_subarray;
-
-
 class Solution {
     /**
      * @param Integer[] $nums

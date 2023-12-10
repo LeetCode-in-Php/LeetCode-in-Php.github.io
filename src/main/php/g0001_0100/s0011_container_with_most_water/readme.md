@@ -46,11 +46,6 @@ Given `n` non-negative integers <code>a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0011_container_with_most_water;
-
-
 class Solution {
     /**
      * @param Integer[] $height

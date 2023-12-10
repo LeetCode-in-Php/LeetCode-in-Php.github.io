@@ -52,11 +52,6 @@ How many possible unique paths are there?
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0062_unique_paths;
-
-
 class Solution {
     /**
      * @param Integer $m

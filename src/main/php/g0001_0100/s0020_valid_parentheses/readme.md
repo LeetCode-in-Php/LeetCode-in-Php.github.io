@@ -50,11 +50,6 @@ An input string is valid if:
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0020_valid_parentheses;
-
-
 class Solution {
     /**
      * @param String $s

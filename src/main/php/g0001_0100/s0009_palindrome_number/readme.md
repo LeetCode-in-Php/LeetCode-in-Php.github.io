@@ -46,11 +46,6 @@ An integer is a **palindrome** when it reads the same backward as forward. For e
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0009_palindrome_number;
-
-
 class Solution {
     /**
      * @param Integer $x

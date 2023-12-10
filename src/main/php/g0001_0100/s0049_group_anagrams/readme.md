@@ -36,11 +36,6 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0049_group_anagrams;
-
-
 class Solution {
     /**
      * @param String[] $strs

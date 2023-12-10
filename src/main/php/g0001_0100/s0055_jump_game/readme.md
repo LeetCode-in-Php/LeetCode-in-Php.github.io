@@ -33,11 +33,6 @@ Return `true` _if you can reach the last index, or_ `false` _otherwise_.
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0055_jump_game;
-
-
 class Solution {
     /**
      * @param Integer[] $nums

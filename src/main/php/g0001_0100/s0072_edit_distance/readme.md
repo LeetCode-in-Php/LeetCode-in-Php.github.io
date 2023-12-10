@@ -37,11 +37,6 @@ You have the following three operations permitted on a word:
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0072_edit_distance;
-
-
 class Solution {
     /**
      * @param String $word1

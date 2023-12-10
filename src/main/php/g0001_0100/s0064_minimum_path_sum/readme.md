@@ -35,11 +35,6 @@ Given a `m x n` `grid` filled with non-negative numbers, find a path from top le
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0064_minimum_path_sum;
-
-
 class Solution {
     /**
      * @param Integer[][] $grid

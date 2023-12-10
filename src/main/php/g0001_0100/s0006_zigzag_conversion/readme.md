@@ -44,11 +44,6 @@ string convert(string s, int numRows);
 ## Solution
 
 ```php
-<?php
-
-namespace leetcode\g0001_0100\s0006_zigzag_conversion;
-
-
 class Solution {
     /**
      * @param String $s
